@@ -1,0 +1,10 @@
+/ Intruction
+/ 30 day challenge
+#include<stdio.h>
+int main(){
+printf("4+8"); /Addtion
+printf("8-4"); /Subraction
+printf("5*5"); /Multiple
+printf("6/8"); /Divide
+printf("7%2"); / Moduls
+}
