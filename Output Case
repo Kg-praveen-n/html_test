@@ -1,0 +1,12 @@
+/1 Integers
+#include<stdio.h>
+int main(){
+  int age =18;
+  printdf("Age is %d",age);
+/2 Real number
+  int pi =3.14;
+  printf("Value of pi is %f",Pi);
+/3 Chatracter
+  char = *;
+  printf("star loops like this %c",star);
+  
